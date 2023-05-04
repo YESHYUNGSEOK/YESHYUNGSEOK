@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I graduated from Kyung Hee University with a degree in Media, and am currently studying programming at 42 Seoul.
 <!--
 **YESHYUNGSEOK/YESHYUNGSEOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
