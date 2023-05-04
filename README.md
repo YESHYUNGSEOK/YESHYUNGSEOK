@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I graduated from Kyung Hee University with a degree in Media, and am currently studying programming at 42 Seoul.
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clh98lhco004608mgopay470l/stats?cursusId=21&coalitionId=87" alt="hyungnoh's 42 stats" /></a>
 <!--
 **YESHYUNGSEOK/YESHYUNGSEOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
