@@ -1,4 +1,4 @@
-### Hi there 👋 I am Hyungseok Noh 🙂
+### Hi there 👋 I am Hyungseok Noh 🙂!
 
 I graduated from Kyung Hee University with a degree in Media, and am currently studying programming at 42 Seoul.
 
