@@ -1,4 +1,4 @@
-### Hi there 👋 I am Hyungseok Noh 🙂!
+### Hi there 👋 I am Hyungseok Noh!
 
 <div align="center">
 
