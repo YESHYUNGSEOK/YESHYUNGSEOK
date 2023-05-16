@@ -1,22 +1,9 @@
 ### Hi there 👋 I am Hyungseok Noh 🙂!
+<div align="center">
+  I graduated from Kyung Hee University with a degree in Media, and am currently studying programming at 42 Seoul.
 
-I graduated from Kyung Hee University with a degree in Media, and am currently studying programming at 42 Seoul.
-
-<a href="https://github.com/innovationacademy-kr/42cabi"><img src="https://badge42.vercel.app/api/v2/clh98lhco004608mgopay470l/stats?cursusId=21&coalitionId=87" alt="hyungnoh's 42 stats" /></a>
-<a href="https://github.com/innovationacademy-kr/42cabi" >
-  <img src="https://user-images.githubusercontent.com/45951630/151654792-3e064ca8-f2e6-4a13-945a-626705152957.png" width="400px" alt="42Cabi" />
+  <a href="https://github.com/innovationacademy-kr/42cabi"><img src="https://badge42.vercel.app/api/v2/clh98lhco004608mgopay470l/stats?cursusId=21&coalitionId=87" alt="hyungnoh's 42 stats" /></a>
+  <a href="https://github.com/innovationacademy-kr/42cabi" >
+    <img src="https://user-images.githubusercontent.com/45951630/151654792-3e064ca8-f2e6-4a13-945a-626705152957.png" width="400px" alt="42Cabi" />
 </a>
-<!--
-**YESHYUNGSEOK/YESHYUNGSEOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
