@@ -1,5 +1,5 @@
-### Hi there 👋 I am Hyungseok Noh 🙂!
 <div align="center">
+### Hi there 👋 I am Hyungseok Noh 🙂!
   I graduated from Kyung Hee University with a degree in Media, and am currently studying programming at 42 Seoul.
 
   <a href="https://github.com/innovationacademy-kr/42cabi"><img src="https://badge42.vercel.app/api/v2/clh98lhco004608mgopay470l/stats?cursusId=21&coalitionId=87" alt="hyungnoh's 42 stats" /></a>
