@@ -31,7 +31,8 @@
       <img alt="Next" src="https://img.shields.io/badge/Next14-000000?style=flat-square&logo=Next.js&logoColor=white"/><br/>
       <img alt="Vite" src="https://img.shields.io/badge/-Vite-%23F7DF1E?style=flat-square&logo=Vite&logoColor=white&color=7952B3" />
       <img alt="Recoil" src="https://img.shields.io/badge/-Recoil-%23F7DF1E?style=flat-square&logo=recoil&logoColor=white&color=3578E5" />
-      <img alt="Tanstack" src="https://img.shields.io/badge/-TanstackQuery-%23F7DF1E?style=flat-square&logo=reactquery&logoColor=white&color=FF4154" /><br/>
+      <img alt="Tanstack" src="https://img.shields.io/badge/-TanstackQuery-%23F7DF1E?style=flat-square&logo=reactquery&logoColor=white&color=FF4154" />
+      <img alt="Jest" src="https://img.shields.io/badge/-Jest-%23F7DF1E?style=flat-square&logo=jest&logoColor=white&color=C21325" /><br/>
       <img alt="StyledComponents" src="https://img.shields.io/badge/-StyledComponents-%23F7DF1E?style=flat-square&logo=styledComponents&logoColor=white&color=DB7093" />
       <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-%23F7DF1E?style=flat-square&logo=sass&logoColor=white&color=CC6699" />
     </td>
