@@ -45,6 +45,7 @@
       <img alt="CloudFront" src="https://img.shields.io/badge/-AWSCloudFront-%23F7DF1E?style=flat-square&logo=AWS&logoColor=white&color=4053D6" /><br/>
       <img alt="GithubActions" src="https://img.shields.io/badge/-GithubActions-%23F7DF1E?style=flat-square&logo=githubactions&logoColor=white&color=2088FF" />
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-%23F7DF1E?style=flat-square&logo=docker&logoColor=white&color=2496ED" />
+      <img alt="Sentry" src="https://img.shields.io/badge/-Sentry-%23F7DF1E?style=flat-square&logo=sentry&logoColor=white&color=362D59" />
     </td>
   </tr>
   <tr align="left">
