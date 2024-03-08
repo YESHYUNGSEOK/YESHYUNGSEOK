@@ -18,7 +18,8 @@
       <img alt="javascript badge" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
       <img alt="typescript badge" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white" />
       <img alt="python badge" src="https://img.shields.io/badge/-Python-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB"/>
-      <img alt="java" src="https://img.shields.io/badge/-C-%23F7DF1E?style=flat-square&logo=C&logoColor=white&color=007396" />
+      <img alt="C" src="https://img.shields.io/badge/-C-%23F7DF1E?style=flat-square&logo=C&logoColor=white&color=007396" />
+      <img alt="C++" src="https://img.shields.io/badge/-C++-%23F7DF1E?style=flat-square&logo=Cplusplus&logoColor=white&color=007396" />
     </td>
   </tr>
   <tr>
