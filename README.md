@@ -3,7 +3,6 @@
 </div>
 
 ## ABOUT ME
-- 📚 My major is media communication.
 - 🌱 I'm currently learning **TypeScript, Next js, Jest, Algorithm**
 - 💖 I'm interested in Software design pattern, Clean architecture, New web technology
 - 📝 I regularly write articles on https://velog.io/@yeshyungseok
