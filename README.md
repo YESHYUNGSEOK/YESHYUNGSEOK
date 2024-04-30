@@ -1,6 +1,5 @@
 <div align="center">
   <h3>Hello! I'm Hyungseok.</h3>
-  <img src="https://github.com/teon98/teon98/assets/49816869/7a2986b8-e2cd-42e6-a997-9ba85c3fee77" width="50px" />
 </div>
 
 ## ABOUT ME
